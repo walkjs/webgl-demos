@@ -2,11 +2,12 @@
 WebGL练习示例
 
 ## 运行
-示例代码均只需在项目根目录下启动静态服务器即可运行，无需构建与依赖管理：
+示例代码均只需在项目根目录下启动静态服务器即可运行，无需构建与依赖管理(推荐使用parcel, 本地需装)
 
 ``` bash
-parcel examples/index.html (推荐使用parcel, 本地需装)
+parcel examples/index.html
 ```
+[在线demo](https://walkjs.github.io/webgl-demos/examples/)
 
 ## demos包含
 
